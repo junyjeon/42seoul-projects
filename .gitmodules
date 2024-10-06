@@ -1,0 +1,6 @@
+[submodule "Libft"]
+	path = Libft
+	url = https://github.com/junyjeon/Libft.git
+[submodule "Get-next-line"]
+	path = Get-next-line
+	url = https://github.com/junyjeon/Get-next-line.git

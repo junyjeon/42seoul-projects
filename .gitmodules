@@ -10,3 +10,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/junyjeon/push_swap.git
+[submodule "link_tree"]
+	path = link_tree
+	url = https://github.com/junyjeon/link_tree.git

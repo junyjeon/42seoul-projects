@@ -22,3 +22,6 @@
 [submodule "08_minitalk"]
 	path = 08_minitalk
 	url = https://github.com/junyjeon/minitalk.git
+
+#git submodule sync
+#git submodule update --init --recursive

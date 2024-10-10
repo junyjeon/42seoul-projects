@@ -1,9 +1,9 @@
 [submodule "Libft"]
 	path = Libft
 	url = https://github.com/junyjeon/Libft.git
-[submodule "Get-next-line"]
-	path = Get-next-line
-	url = https://github.com/junyjeon/Get-next-line.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/junyjeon/get_next_line.git
 [submodule "Born2beroot"]
 	path = Born2beroot
 	url = https://github.com/junyjeon/Born2beroot.git
@@ -13,3 +13,12 @@
 [submodule "link_tree"]
 	path = link_tree
 	url = https://github.com/junyjeon/link_tree.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/junyjeon/ft_printf.git
+[submodule "FdF"]
+	path = FdF
+	url = https://github.com/junyjeon/FdF.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/junyjeon/minitalk.git

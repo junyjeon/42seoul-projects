@@ -1,24 +1,24 @@
-[submodule "link_tree"]
-	path = link_tree
+[submodule "01_link_tree"]
+	path = 01_link_tree
 	url = https://github.com/junyjeon/link_tree.git
-[submodule "Libft"]
-	path = Libft
+[submodule "02_Libft"]
+	path = 02_Libft
 	url = https://github.com/junyjeon/Libft.git
-[submodule "get_next_line"]
-	path = get_next_line
+[submodule "03_get_next_line"]
+	path = 03_get_next_line
 	url = https://github.com/junyjeon/get_next_line.git
-[submodule "Born2beroot"]
-	path = Born2beroot
+[submodule "04_Born2beroot"]
+	path = 04_Born2beroot
 	url = https://github.com/junyjeon/Born2beroot.git
-[submodule "ft_printf"]
-	path = ft_printf
+[submodule "05_ft_printf"]
+	path = 05_ft_printf
 	url = https://github.com/junyjeon/ft_printf.git
-[submodule "push_swap"]
-	path = push_swap
+[submodule "06_push_swap"]
+	path = 06_push_swap
 	url = https://github.com/junyjeon/push_swap.git
-[submodule "FdF"]
-	path = FdF
+[submodule "07_FdF"]
+	path = 07_FdF
 	url = https://github.com/junyjeon/FdF.git
-[submodule "minitalk"]
-	path = minitalk
+[submodule "08_minitalk"]
+	path = 08_minitalk
 	url = https://github.com/junyjeon/minitalk.git

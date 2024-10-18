@@ -191,9 +191,9 @@
 
 ## 연락처
 
-- GitHub: [프로필 링크]
+- GitHub: https://github.com/junyjeon
 - LinkedIn: [프로필 링크]
-- Email: [이메일 주소]
+- Email: jjy8479@naver.com
 
 ---
 

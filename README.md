@@ -27,7 +27,7 @@
 ## 기술 스택 개요
 
 - **프로그래밍 언어**: C, C++, TypeScript
-- **프레임워크 및 라이브러리**: MiniLibX, NestJS
+- **프레임워크 및 라이브러리**: MiniLibX, NestJS, Django
 - **데이터베이스**: PostgreSQL
 - **개발 도구**: Git, Make, Docker
 - **운영 체제**: Linux
@@ -185,7 +185,7 @@
 ### 17. ft_transcendence
 - **난이도**: Level 6
 - **개요**: 실시간 멀티플레이어 Pong 게임 웹 애플리케이션 개발
-- **사용 기술**: TypeScript, NestJS, PostgreSQL, WebSocket
+- **사용 기술**: TypeScript, NestJS, PostgreSQL, WebSocket,  Django
 - **주요 학습**: 풀스택 웹 개발, 실시간 통신, 데이터베이스 설계
 - [프로젝트 상세](#)
 - **코드 리뷰**:

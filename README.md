@@ -55,7 +55,7 @@
 &nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔧&nbsp;&nbsp;&nbsp;&nbsp;⚡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀<br>
 &nbsp;&nbsp;&nbsp;└──────┬──────┴──────┬──────┴──────┬──────┘<br>
 &nbsp;기초단계&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;심화단계&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++ 모듈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;최종과정<br>
-(Level 0-1)&nbsp;&nbsp;&nbsp;(Level 2-3)&nbsp;&nbsp;&nbsp;(Level 4)&nbsp;&nbsp;&nbsp;(Level 5-6)<br>
+(Level 0-1)&nbsp;&nbsp;(Level 2-3)&nbsp;&nbsp;&nbsp;(Level 4)&nbsp;&nbsp;&nbsp;(Level 5-6)<br>
 
 🏆 **주요 성과**
 - 전체 프로젝트 평균 평가 점수 100/100 달성

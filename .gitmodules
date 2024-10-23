@@ -34,3 +34,6 @@
 [submodule "NetPractice"]
 	path = 11_NetPractice
 	url = https://github.com/junyjeon/NetPractice.git
+[submodule "cub3d"]
+	path = 12_cub3d
+	url = https://github.com/junyjeon/cub3d.git

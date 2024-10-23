@@ -22,8 +22,8 @@
   - [10. NetPractice](#10-netpractice)
   - [11. cub3d](#11-cub3d)
   ### ⚡ C++ 프로그래밍
-  - [12-16. CPP Modules 00-04](#12-cpp-modules)
-  - [17-21. CPP Modules 05-09](#17-cpp-modules)
+  - [12-16. CPP Modules 00-04](#12-cpp-modules-00)
+  - [17-21. CPP Modules 05-09](#17-cpp-modules-05)
   ### 🚀 웹 & 인프라
   - [22. Inception](#22-inception)
   - [23. ft_irc](#23-ft_irc)

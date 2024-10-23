@@ -31,3 +31,6 @@
 [submodule "minishell_jon"]
 	path = 10_minishell
 	url = https://github.com/junyjeon/minishell_jon.git
+[submodule "NetPractice"]
+	path = 11_NetPractice
+	url = https://github.com/junyjeon/NetPractice.git

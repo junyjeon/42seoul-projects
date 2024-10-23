@@ -46,9 +46,9 @@
 - 기타(Docker/Network): 2개 프로젝트
 
 ⏳ **진행 타임라인**
-2022.03 ────────────────────────────────────> 2024.02
-   🌱    💻    🔧    ⚡    🚀
-   └─기초─┴─심화─┴─C++─┴─최종─┘
+2022.03 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━> 2024.02
+   🌱         💻         🔧         ⚡         🚀
+   기초      심화      그래픽스     C++       최종
 
 🏆 **주요 성과**
 - 전체 프로젝트 평균 평가 점수 100/100 달성
@@ -85,7 +85,7 @@
 ### 🌱 기초 프로그래밍 (Level 0-1)
 **핵심 스킬**: 메모리 관리, 파일 I/O, 리눅스 시스템, 문자열 처리
 
-### [00. link_tree](https://github.com/junyjeon/link_tree)
+### 00. [link_tree](https://github.com/junyjeon/link_tree)
 - **난이도**: Level 0
 - **개요**: 42 교육과정 전체 프로젝트 문서화
 - **사용 기술**: Git, Markdown
@@ -94,7 +94,7 @@
   - 문서화
   - 버전 관리
 
-### [01. Libft](https://github.com/junyjeon/Libft)
+### 01. [Libft](https://github.com/junyjeon/Libft)
 - **난이도**: Level 0
 - **개요**: C 언어 표준 라이브러리 함수 재구현
 - **사용 기술**: C, Makefile
@@ -104,7 +104,7 @@
   - 연결 리스트
   - 메모리 누수 관리
 
-### [02. get_next_line](https://github.com/junyjeon/get_next_line)
+### 02. [get_next_line](https://github.com/junyjeon/get_next_line)
 - **난이도**: Level 1
 - **개요**: 파일 디스크립터로부터 한 줄씩 읽어오는 함수 구현
 - **사용 기술**: C, 파일 I/O
@@ -114,7 +114,7 @@
   - 버퍼 관리
   - 메모리 누수 방지
 
-### [03. Born2beroot](https://github.com/junyjeon/Born2beroot)
+### 03. [Born2beroot](https://github.com/junyjeon/Born2beroot)
 - **난이도**: Level 1
 - **개요**: 가상 머신을 이용한 시스템 관리 및 보안 설정
 - **사용 기술**: VirtualBox, Debian Linux
@@ -124,7 +124,7 @@
   - 보안 정책 설정
   - 서비스 모니터링
 
-### [04. ft_printf](https://github.com/junyjeon/ft_printf)
+### 04. [ft_printf](https://github.com/junyjeon/ft_printf)
 - **난이도**: Level 1
 - **개요**: printf 함수의 주요 기능 구현
 - **사용 기술**: C, 가변 인자
@@ -137,7 +137,7 @@
 ### 💻 알고리즘 & 시스템 프로그래밍 (Level 2-3)
 **핵심 스킬**: 알고리즘 최적화, 멀티스레딩, 프로세스 관리, IPC, 그래픽스
 
-### [05. push_swap](https://github.com/junyjeon/push_swap)
+### 05. [push_swap](https://github.com/junyjeon/push_swap)
 - **난이도**: Level 2
 - **개요**: 스택 정렬 알고리즘 구현
 - **사용 기술**: C, 알고리즘
@@ -147,7 +147,7 @@
   - 스택 자료구조
   - 알고리즘 효율성 분석
 
-### [06. FdF](https://github.com/junyjeon/FdF)
+### 06. [FdF](https://github.com/junyjeon/FdF)
 - **난이도**: Level 2
 - **개요**: 3D 와이어프레임 렌더링
 - **사용 기술**: C, MiniLibX
@@ -157,7 +157,7 @@
   - 이벤트 처리
   - 메모리 최적화
 
-### [07. minitalk](https://github.com/junyjeon/minitalk)
+### 07. [minitalk](https://github.com/junyjeon/minitalk)
 - **난이도**: Level 2
 - **개요**: UNIX 시그널을 이용한 클라이언트-서버 통신
 - **사용 기술**: C, UNIX 시그널
@@ -167,7 +167,7 @@
   - 비트 연산
   - 에러 핸들링
 
-### [08. Philosophers](https://github.com/junyjeon/Philosophers)
+### 08. [Philosophers](https://github.com/junyjeon/Philosophers)
 - **난이도**: Level 3
 - **개요**: 식사하는 철학자 문제 해결
 - **사용 기술**: C, 멀티스레딩
@@ -177,7 +177,7 @@
   - 교착상태 방지
   - 동기화 기법
 
-### [09. minishell](https://github.com/junyjeon/minishell)
+### 09. [minishell](https://github.com/junyjeon/minishell)
 - **난이도**: Level 3
 - **개요**: 간단한 셸 구현
 - **사용 기술**: C, 시스템 콜
@@ -190,7 +190,7 @@
 ### 🔧 네트워크 & 그래픽스 (Level 4)
 **핵심 스킬**: TCP/IP, 서브넷팅, 3D 렌더링, 레이캐스팅
 
-### [10. NetPractice](https://github.com/junyjeon/NetPractice)
+### 10. [NetPractice](https://github.com/junyjeon/NetPractice)
 - **난이도**: Level 4
 - **개요**: 네트워크 구성 및 문제 해결
 - **사용 기술**: TCP/IP, 네트워크 설계
@@ -201,7 +201,7 @@
   - 네트워크 토폴로지
   - TCP/IP 스택
 
-### [11. cub3d](https://github.com/junyjeon/cub3d)
+### 11. [cub3d](https://github.com/junyjeon/cub3d)
 - **난이도**: Level 4
 - **개요**: 레이캐스팅을 이용한 3D 게임 엔진 구현
 - **사용 기술**: C, MiniLibX, 수학
@@ -215,7 +215,7 @@
 ### ⚡ C++ 프로그래밍 (Level 4)
 **핵심 스킬**: OOP, STL, 템플릿, 예외처리, 메모리 관리
 
-### [12. CPP Module 00](https://github.com/junyjeon/CPP-Module-00)
+### 12. [CPP Module 00](https://github.com/junyjeon/CPP-Module-00)
 - **난이도**: Level 4
 - **개요**: C++ 기초 문법과 클래스 입문
 - **사용 기술**: C++98
@@ -226,7 +226,7 @@
   - stdio 스트림
   - 초기화 리스트
 
-### [13. CPP Module 01](https://github.com/junyjeon/CPP-Module-01)
+### 13. [CPP Module 01](https://github.com/junyjeon/CPP-Module-01)
 - **난이도**: Level 4
 - **개요**: 메모리 할당, 참조, 포인터
 - **사용 기술**: C++98
@@ -236,7 +236,7 @@
   - 파일 스트림
   - 포인터와 메모리
 
-### [14. CPP Module 02](https://github.com/junyjeon/CPP-Module-02)
+### 14. [CPP Module 02](https://github.com/junyjeon/CPP-Module-02)
 - **난이도**: Level 4
 - **개요**: 연산자 오버로딩
 - **사용 기술**: C++98
@@ -246,7 +246,7 @@
   - 정규형 클래스
   - 복사 생성자
 
-### [15. CPP Module 03](https://github.com/junyjeon/CPP-Module-03)
+### 15. [CPP Module 03](https://github.com/junyjeon/CPP-Module-03)
 - **난이도**: Level 4
 - **개요**: 상속
 - **사용 기술**: C++98
@@ -256,7 +256,7 @@
   - 다중 상속
   - 가상 상속
 
-### [16. CPP Module 04](https://github.com/junyjeon/CPP-Module-04)
+### 16. [CPP Module 04](https://github.com/junyjeon/CPP-Module-04)
 - **난이도**: Level 4
 - **개요**: 다형성, 추상 클래스, 인터페이스
 - **사용 기술**: C++98
@@ -266,7 +266,7 @@
   - 추상 클래스
   - 인터페이스 구현
 
-### [17. CPP Module 05](https://github.com/junyjeon/CPP-Module-05)
+### 17. [CPP Module 05](https://github.com/junyjeon/CPP-Module-05)
 - **난이도**: Level 4
 - **개요**: 예외 처리
 - **사용 기술**: C++98
@@ -277,7 +277,7 @@
   - 스택 되감기
   - 관료제 시뮬레이션
 
-### [18. CPP Module 06](https://github.com/junyjeon/CPP-Module-06)
+### 18. [CPP Module 06](https://github.com/junyjeon/CPP-Module-06)
 - **난이도**: Level 4
 - **개요**: C++ 타입 캐스팅
 - **사용 기술**: C++98
@@ -288,7 +288,7 @@
   - const_cast
   - 타입 변환의 안전성
 
-### [19. CPP Module 07](https://github.com/junyjeon/CPP-Module-07)
+### 19. [CPP Module 07](https://github.com/junyjeon/CPP-Module-07)
 - **난이도**: Level 4
 - **개요**: C++ 템플릿
 - **사용 기술**: C++98
@@ -298,7 +298,7 @@
   - 템플릿 특수화
   - 템플릿 메타프로그래밍
 
-### [20. CPP Module 08](https://github.com/junyjeon/CPP-Module-08)
+### 20. [CPP Module 08](https://github.com/junyjeon/CPP-Module-08)
 - **난이도**: Level 4
 - **개요**: STL 컨테이너
 - **사용 기술**: C++98
@@ -308,7 +308,7 @@
   - STL 알고리즘
   - 컨테이너 어댑터
 
-### [21. CPP Module 09](https://github.com/junyjeon/CPP-Module-09)
+### 21. [CPP Module 09](https://github.com/junyjeon/CPP-Module-09)
 - **난이도**: Level 4
 - **개요**: STL 컨테이너 실전 활용
 - **사용 기술**: C++98
@@ -321,7 +321,7 @@
 ### 🚀 웹 & 인프라 (Level 5-6)
 **핵심 스킬**: Docker, NestJS, Django, PostgreSQL, WebSocket
 
-### [22. Inception](https://github.com/junyjeon/Inception)
+### 22. [Inception](https://github.com/junyjeon/Inception)
 - **난이도**: Level 5
 - **개요**: Docker를 이용한 서비스 구축
 - **사용 기술**: Docker, Docker Compose, Nginx
@@ -333,7 +333,7 @@
   - 볼륨 관리
   - 네트워크 설정
 
-### [23. ft_irc](https://github.com/junyjeon/ft_irc)
+### 23. [ft_irc](https://github.com/junyjeon/ft_irc)
 - **난이도**: Level 5
 - **개요**: IRC (Internet Relay Chat) 서버 구현
 - **사용 기술**: C++, 소켓 프로그래밍
@@ -345,7 +345,7 @@
   - 채널 관리
   - 사용자 인증
 
-### [24. ft_transcendence](https://github.com/junyjeon/ft_transcendence)
+### 24. [ft_transcendence](https://github.com/junyjeon/ft_transcendence)
 - **난이도**: Level 6
 - **개요**: 실시간 멀티플레이어 Pong 게임 웹 애플리케이션
 - **사용 기술**: 
@@ -368,6 +368,9 @@
 ### 🔗 소셜 미디어
 <a href="https://github.com/junyjeon">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/juny-jeon-b14980268">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:jjy8479@naver.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />

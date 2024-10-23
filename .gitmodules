@@ -1,54 +1,54 @@
 [submodule "01_link_tree"]
-	path = 01_link_tree
+	path = 00_link_tree
 	url = https://github.com/junyjeon/link_tree.git
 [submodule "02_Libft"]
-	path = 02_Libft
+	path = 01_Libft
 	url = https://github.com/junyjeon/Libft.git
 [submodule "03_get_next_line"]
-	path = 03_get_next_line
+	path = 02_get_next_line
 	url = https://github.com/junyjeon/get_next_line.git
 [submodule "04_Born2beroot"]
-	path = 04_Born2beroot
+	path = 03_Born2beroot
 	url = https://github.com/junyjeon/Born2beroot.git
 [submodule "05_ft_printf"]
-	path = 05_ft_printf
+	path = 04_ft_printf
 	url = https://github.com/junyjeon/ft_printf.git
 [submodule "06_push_swap"]
-	path = 06_push_swap
+	path = 05_push_swap
 	url = https://github.com/junyjeon/push_swap.git
 [submodule "07_FdF"]
-	path = 07_FdF
+	path = 06_FdF
 	url = https://github.com/junyjeon/FdF.git
 [submodule "08_minitalk"]
-	path = 08_minitalk
+	path = 07_minitalk
 	url = https://github.com/junyjeon/minitalk.git
 
 #git submodule sync
 #git submodule update --init --recursive
 [submodule "Philosophers"]
-	path = 09_Philosophers
+	path = 08_Philosophers
 	url = https://github.com/junyjeon/Philosophers
 [submodule "minishell_jon"]
-	path = 10_minishell
+	path = 09_minishell
 	url = https://github.com/junyjeon/minishell_jon.git
 [submodule "NetPractice"]
-	path = 11_NetPractice
+	path = 10_NetPractice
 	url = https://github.com/junyjeon/NetPractice.git
 [submodule "cub3d"]
-	path = 12_cub3d
+	path = 11_cub3d
 	url = https://github.com/junyjeon/cub3d.git
 [submodule "13_CPP-Module-00"]
-	path = 13_CPP-Module-00
+	path = 12_CPP-Module-00
 	url = https://github.com/junyjeon/CPP-Module-00.git
 [submodule "13_CPP-Module-01"]
-	path = 14_CPP-Module-01
+	path = 13_CPP-Module-01
 	url = https://github.com/junyjeon/CPP-Module-01.git
 [submodule "13_CPP-Module-02"]
-	path = 15_CPP-Module-02
+	path = 14_CPP-Module-02
 	url = https://github.com/junyjeon/CPP-Module-02.git
 [submodule "13_CPP-Module-03"]
-	path = 16_CPP-Module-03
+	path = 15_CPP-Module-03
 	url = https://github.com/junyjeon/CPP-Module-03.git
 [submodule "13_CPP-Module-04"]
-	path = 17_CPP-Module-04
+	path = 16_CPP-Module-04
 	url = https://github.com/junyjeon/CPP-Module-04.git

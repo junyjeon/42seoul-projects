@@ -39,6 +39,10 @@
 #git mv 현재_서브모듈_이름 새로운_서브모듈_이름
 #git submodule absorbgitdirs
 
+# 모든 서브모듈 한 번에 업데이트
+#git submodule foreach --recursive 'git checkout main || git checkout master; git pull'
+
+
 [submodule "Philosophers"]
 	path = 08_Philosophers
 	url = https://github.com/junyjeon/Philosophers

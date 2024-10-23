@@ -1,25 +1,25 @@
-[submodule "01_link_tree"]
+[submodule "link_tree"]
 	path = 00_link_tree
 	url = https://github.com/junyjeon/link_tree.git
-[submodule "02_Libft"]
+[submodule "Libft"]
 	path = 01_Libft
 	url = https://github.com/junyjeon/Libft.git
-[submodule "03_get_next_line"]
+[submodule "get_next_line"]
 	path = 02_get_next_line
 	url = https://github.com/junyjeon/get_next_line.git
-[submodule "04_Born2beroot"]
+[submodule "Born2beroot"]
 	path = 03_Born2beroot
 	url = https://github.com/junyjeon/Born2beroot.git
-[submodule "05_ft_printf"]
+[submodule "ft_printf"]
 	path = 04_ft_printf
 	url = https://github.com/junyjeon/ft_printf.git
-[submodule "06_push_swap"]
+[submodule "push_swap"]
 	path = 05_push_swap
 	url = https://github.com/junyjeon/push_swap.git
-[submodule "07_FdF"]
+[submodule "FdF"]
 	path = 06_FdF
 	url = https://github.com/junyjeon/FdF.git
-[submodule "08_minitalk"]
+[submodule "minitalk"]
 	path = 07_minitalk
 	url = https://github.com/junyjeon/minitalk.git
 
@@ -42,7 +42,7 @@
 [submodule "Philosophers"]
 	path = 08_Philosophers
 	url = https://github.com/junyjeon/Philosophers
-[submodule "minishell_jon"]
+[submodule "minishell"]
 	path = 09_minishell
 	url = https://github.com/junyjeon/minishell_jon.git
 [submodule "NetPractice"]
@@ -51,42 +51,42 @@
 [submodule "cub3d"]
 	path = 11_cub3d
 	url = https://github.com/junyjeon/cub3d.git
-[submodule "13_CPP-Module-00"]
+[submodule "CPP-Module-00"]
 	path = 12_CPP-Module-00
 	url = https://github.com/junyjeon/CPP-Module-00.git
-[submodule "13_CPP-Module-01"]
+[submodule "CPP-Module-01"]
 	path = 13_CPP-Module-01
 	url = https://github.com/junyjeon/CPP-Module-01.git
-[submodule "13_CPP-Module-02"]
+[submodule "CPP-Module-02"]
 	path = 14_CPP-Module-02
 	url = https://github.com/junyjeon/CPP-Module-02.git
-[submodule "13_CPP-Module-03"]
+[submodule "CPP-Module-03"]
 	path = 15_CPP-Module-03
 	url = https://github.com/junyjeon/CPP-Module-03.git
-[submodule "13_CPP-Module-04"]
+[submodule "CPP-Module-04"]
 	path = 16_CPP-Module-04
 	url = https://github.com/junyjeon/CPP-Module-04.git
-[submodule "17_CPP-Module-05"]
+[submodule "CPP-Module-05"]
 	path = 17_CPP-Module-05
 	url = https://github.com/junyjeon/CPP-Module-05.git
-[submodule "18_CPP-Module-06"]
+[submodule "CPP-Module-06"]
 	path = 18_CPP-Module-06
 	url = https://github.com/junyjeon/CPP-Module-06.git
-[submodule "19_CPP-Module-07"]
+[submodule "CPP-Module-07"]
 	path = 19_CPP-Module-07
 	url = https://github.com/junyjeon/CPP-Module-07.git
-[submodule "20_CPP-Module-08"]
+[submodule "CPP-Module-08"]
 	path = 20_CPP-Module-08
 	url = https://github.com/junyjeon/CPP-Module-08.git
-[submodule "21_CPP-Module-09"]
+[submodule "CPP-Module-09"]
 	path = 21_CPP-Module-09
 	url = https://github.com/junyjeon/CPP-Module-09.git
-[submodule "22_Inception"]
+[submodule "Inception"]
 	path = 22_Inception
 	url = https://github.com/junyjeon/Inception.git
-[submodule "23_ft_irc"]
+[submodule "ft_irc"]
 	path = 23_ft_irc
 	url = https://github.com/junyjeon/ft_irc.git
-[submodule "24_ft_transcendence"]
+[submodule "ft_transcendence"]
 	path = 24_ft_transcendence
 	url = https://github.com/bukdu7seong/FE.git

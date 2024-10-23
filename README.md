@@ -7,29 +7,28 @@
 - [기술 스택 개요](#기술-스택-개요)
 - [프로젝트 목록](#프로젝트-목록)
   ### 🌱 기초 프로그래밍
-  - 00. [link_tree](#00-link_tree)
-  - 01. [Libft](#01-libft)
-  - 02. [get_next_line](#02-get_next_line)
-  - 03. [Born2beroot](#03-born2beroot)
-  - 04. [ft_printf](#04-ft_printf)
+  - [00. link_tree](#00-link_tree)
+  - [01. Libft](#01-libft)
+  - [02. get_next_line](#02-get_next_line)
+  - [03. Born2beroot](#03-born2beroot)
+  - [04. ft_printf](#04-ft_printf)
   ### 💻 알고리즘 & 시스템 프로그래밍
-  - 05. [push_swap](#05-push_swap)
-  - 06. [FdF](#06-fdf)
-  - 07. [minitalk](#07-minitalk)
-  - 08. [Philosophers](#08-philosophers)
-  - 09. [minishell](#09-minishell)
+  - [05. push_swap](#05-push_swap)
+  - [06. FdF](#06-fdf)
+  - [07. minitalk](#07-minitalk)
+  - [08. Philosophers](#08-philosophers)
+  - [09. minishell](#09-minishell)
   ### 🔧 네트워크 & 그래픽스
-  - 10. [NetPractice](#10-netpractice)
-  - 11. [cub3d](#11-cub3d)
+  - [10. NetPractice](#10-netpractice)
+  - [11. cub3d](#11-cub3d)
   ### ⚡ C++ 프로그래밍
-  - 12-16. [CPP Modules 00-04](#12-cpp-modules)
-  - 17-21. [CPP Modules 05-09](#17-cpp-modules)
+  - [12-16. CPP Modules 00-04](#12-cpp-modules)
+  - [17-21. CPP Modules 05-09](#17-cpp-modules)
   ### 🚀 웹 & 인프라
-  - 22. [Inception](#22-inception)
-  - 23. [ft_irc](#23-ft_irc)
-  - 24. [ft_transcendence](#24-ft_transcendence)
+  - [22. Inception](#22-inception)
+  - [23. ft_irc](#23-ft_irc)
+  - [24. ft_transcendence](#24-ft_transcendence)
 - [연락처](#연락처)
-
 
 ## 프로젝트 통계
 📊 **진행 현황**

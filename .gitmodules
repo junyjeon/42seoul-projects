@@ -37,3 +37,18 @@
 [submodule "cub3d"]
 	path = 12_cub3d
 	url = https://github.com/junyjeon/cub3d.git
+[submodule "13_CPP-Module-00"]
+	path = 13_CPP-Module-00
+	url = https://github.com/junyjeon/CPP-Module-00.git
+[submodule "13_CPP-Module-01"]
+	path = 13_CPP-Module-01
+	url = https://github.com/junyjeon/CPP-Module-01.git
+[submodule "13_CPP-Module-02"]
+	path = 13_CPP-Module-02
+	url = https://github.com/junyjeon/CPP-Module-02.git
+[submodule "13_CPP-Module-03"]
+	path = 13_CPP-Module-03
+	url = https://github.com/junyjeon/CPP-Module-03.git
+[submodule "13_CPP-Module-04"]
+	path = 13_CPP-Module-04
+	url = https://github.com/junyjeon/CPP-Module-04.git

@@ -29,5 +29,5 @@
 	path = 09_philosophers
 	url = https://github.com/junyjeon/philosophers
 [submodule "minishell_jon"]
-	path = minishell_jon
+	path = 10_minishell
 	url = https://github.com/junyjeon/minishell_jon.git

@@ -25,6 +25,20 @@
 
 #git submodule sync
 #git submodule update --init --recursive
+
+#서브모듈로 추가(링크)
+#git submodule add [저장소_URL]
+
+#서브모듈 변경사항 반영
+#git submodule update --remote --merge
+
+#제거
+#폴더 삭제, .gitmodule 에서 내용 삭제. 
+
+#서브모듈 이름 변경
+#git mv 현재_서브모듈_이름 새로운_서브모듈_이름
+#git submodule absorbgitdirs
+
 [submodule "Philosophers"]
 	path = 08_Philosophers
 	url = https://github.com/junyjeon/Philosophers

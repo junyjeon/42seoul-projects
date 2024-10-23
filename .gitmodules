@@ -26,7 +26,7 @@
 #git submodule sync
 #git submodule update --init --recursive
 [submodule "philosophers"]
-	path = 09_philosophers
+	path = 09_Philosophers
 	url = https://github.com/junyjeon/philosophers
 [submodule "minishell_jon"]
 	path = 10_minishell

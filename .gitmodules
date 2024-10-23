@@ -84,3 +84,9 @@
 [submodule "22_Inception"]
 	path = 22_Inception
 	url = https://github.com/junyjeon/Inception.git
+[submodule "23_ft_irc"]
+	path = 23_ft_irc
+	url = https://github.com/junyjeon/ft_irc.git
+[submodule "24_ft_transcendence"]
+	path = 24_ft_transcendence
+	url = https://github.com/bukdu7seong/FE.git

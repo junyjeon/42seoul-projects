@@ -56,11 +56,6 @@
 &nbsp;기초단계&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;심화단계&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++ 모듈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;최종과정<br>
 (Level 0-1)&nbsp;&nbsp;(Level 2-3)&nbsp;&nbsp;&nbsp;(Level 4)&nbsp;&nbsp;&nbsp;(Level 5-6)<br>
 
-🏆 **주요 성과**
-- 전체 프로젝트 평균 평가 점수 100/100 달성
-- 최단 기간 내 CPP Module 전체 완료
-- ft_transcendence 프로젝트 우수 구현
-
 
 ## 기술 스택 개요
 
@@ -395,9 +390,9 @@
 
 본 README는 42Seoul 커리큘럼의 프로젝트들을 요약한 것입니다. 각 프로젝트의 상세 내용은 해당 프로젝트의 README를 참조해 주시기 바랍니다.
 
-### 🎯 교육과정 목표
-- 실제 개발 환경에서의 문제 해결 능력 향상
-- 체계적인 코딩 스킬 개발
-- 협업 및 프로젝트 관리 능력 배양
+### 🎯 과정목표
+- 문제 해결 능력++
+- 코딩 스킬++
+- 협업 및 프로젝트 관리 능력++
 
 </samp>

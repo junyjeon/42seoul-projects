@@ -50,7 +50,7 @@
 
 ⏳ **진행 타임라인**
 
-2022.03 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━> 2024.02<br>
+2022.03 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━> 2024.02<br>
 &nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;&nbsp;&nbsp;🔧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀<br>
 &nbsp;&nbsp;&nbsp;└──────┬──────┴──────┬──────┴──────┬──────┘<br>
 &nbsp;기초단계&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;심화단계&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++ 모듈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;최종과정<br>

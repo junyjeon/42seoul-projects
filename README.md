@@ -86,7 +86,7 @@
 ## 프로젝트 목록
 
 ### 🌱 기초 프로그래밍 (Level 0-1)
-**Skills**: 메모리 관리, 파일 I/O, 리눅스 시스템, 문자열 처리
+> 메모리 관리, 파일 I/O, 리눅스 시스템, 문자열 처리
 
 ### 00. [link_tree](https://github.com/junyjeon/link_tree)
 - 42 교육과정 전체 프로젝트 문서화
@@ -133,7 +133,7 @@
 
 
 ### 💻 알고리즘 & 시스템 프로그래밍 (Level 2-3)
-**Skills**: 알고리즘 최적화, 멀티스레딩, 프로세스 관리, IPC, 그래픽스
+> 알고리즘 최적화, 멀티스레딩, 프로세스 관리, IPC, 그래픽스
 
 ### 05. [push_swap](https://github.com/junyjeon/push_swap)
 - **난이도**: Level 2
@@ -187,7 +187,7 @@
 
 
 ### 🔧 네트워크 & 그래픽스 (Level 4)
-**Skills**: TCP/IP, 서브넷팅, 3D 렌더링, 레이캐스팅
+> TCP/IP, 서브넷팅, 3D 렌더링, 레이캐스팅
 
 ### 10. [NetPractice](https://github.com/junyjeon/NetPractice)
 - **난이도**: Level 4
@@ -213,7 +213,7 @@
 
 
 ### ⚡ C++ 프로그래밍 (Level 4)
-**Skills**: OOP, STL, 템플릿, 예외처리, 메모리 관리
+> OOP, STL, 템플릿, 예외처리, 메모리 관리
 
 ### 12. [CPP Module 00](https://github.com/junyjeon/CPP-Module-00)
 - **난이도**: Level 4
@@ -320,7 +320,7 @@
 
 
 ### 🚀 웹 & 인프라 (Level 5-6)
-**Skills**: Docker, NestJS, Django, PostgreSQL, WebSocket
+> Docker, NestJS, Django, PostgreSQL, WebSocket
 
 ### 22. [Inception](https://github.com/junyjeon/Inception)
 - **난이도**: Level 5

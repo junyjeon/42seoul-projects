@@ -4,7 +4,7 @@
 
 ## 목차
 - [프로젝트 통계](#프로젝트-통계)
-- [기술스택](#기술-스택)
+- [기술 스택](#기술-스택)
 - [프로젝트 목록](#프로젝트-목록)
   ### 🌱 기초 프로그래밍
   - [00. link_tree](#00-link_tree)
@@ -57,7 +57,7 @@
 (Level 0-1)&nbsp;&nbsp;(Level 2-3)&nbsp;&nbsp;&nbsp;(Level 4)&nbsp;&nbsp;&nbsp;(Level 5-6)<br>
 
 
-## 기술스택
+## 기술 스택
 
 ### 💻 시스템 프로그래밍
 - C (메모리 관리, 프로세스, 스레드)
@@ -94,7 +94,7 @@
 ### 01. [Libft](https://github.com/junyjeon/Libft)
 - **난이도**: Level 0
 - **구현**: C 언어 표준 라이브러리 함수 재구현
-- **기술스택**: C, Makefile
+- **기술 스택**: C, Makefile
 - **학습 키워드**: 
   - 메모리 관리 (malloc, free)
   - 문자열 처리
@@ -104,7 +104,7 @@
 ### 02. [get_next_line](https://github.com/junyjeon/get_next_line)
 - **난이도**: Level 1
 - **구현**: 파일 디스크립터로부터 한 줄씩 읽어오는 함수 구현
-- **기술스택**: C, 파일 I/O
+- **기술 스택**: C, 파일 I/O
 - **학습 키워드**: 
   - 정적 변수
   - 파일 디스크립터
@@ -114,7 +114,7 @@
 ### 03. [Born2beroot](https://github.com/junyjeon/Born2beroot)
 - **난이도**: Level 1
 - **구현**: 가상 머신을 이용한 시스템 관리 및 보안 설정
-- **기술스택**: VirtualBox, Debian Linux
+- **기술 스택**: VirtualBox, Debian Linux
 - **학습 키워드**: 
   - 시스템 관리
   - 네트워크 설정
@@ -124,7 +124,7 @@
 ### 04. [ft_printf](https://github.com/junyjeon/ft_printf)
 - **난이도**: Level 1
 - **구현**: printf 함수 구현
-- **기술스택**: C, 가변 인자
+- **기술 스택**: C, 가변 인자
 - **학습 키워드**: 
   - 가변 인자 처리
   - 문자열 파싱
@@ -138,7 +138,7 @@
 ### 05. [push_swap](https://github.com/junyjeon/push_swap)
 - **난이도**: Level 2
 - **구현**: 스택 정렬 알고리즘 구현
-- **기술스택**: C, 알고리즘
+- **기술 스택**: C, 알고리즘
 - **학습 키워드**: 
   - 정렬 알고리즘 구현
   - 시간 복잡도 최적화
@@ -148,7 +148,7 @@
 ### 06. [FdF](https://github.com/junyjeon/FdF)
 - **난이도**: Level 2
 - **구현**: 3D 와이어프레임 렌더링
-- **기술스택**: C, MiniLibX
+- **기술 스택**: C, MiniLibX
 - **학습 키워드**: 
   - 3D 그래픽스 기초
   - 행렬 변환
@@ -158,7 +158,7 @@
 ### 07. [minitalk](https://github.com/junyjeon/minitalk)
 - **난이도**: Level 2
 - **구현**: UNIX 시그널을 이용한 클라이언트-서버 통신
-- **기술스택**: C, UNIX 시그널
+- **기술 스택**: C, UNIX 시그널
 - **학습 키워드**: 
   - 프로세스 간 통신
   - 시그널 처리
@@ -168,7 +168,7 @@
 ### 08. [Philosophers](https://github.com/junyjeon/Philosophers)
 - **난이도**: Level 3
 - **구현**: 식사하는 철학자 문제 해결
-- **기술스택**: C, 멀티스레딩
+- **기술 스택**: C, 멀티스레딩
 - **학습 키워드**: 
   - 스레드 관리
   - 뮤텍스/세마포어
@@ -178,7 +178,7 @@
 ### 09. [minishell](https://github.com/junyjeon/minishell)
 - **난이도**: Level 3
 - **구현**: 간단한 셸 구현
-- **기술스택**: C, 시스템 콜
+- **기술 스택**: C, 시스템 콜
 - **학습 키워드**: 
   - 프로세스 생성/관리
   - 파이프 구현
@@ -192,7 +192,7 @@
 ### 10. [NetPractice](https://github.com/junyjeon/NetPractice)
 - **난이도**: Level 4
 - **구현**: 네트워크 구성 및 문제 해결
-- **기술스택**: TCP/IP, 네트워크 설계
+- **기술 스택**: TCP/IP, 네트워크 설계
 - **학습 키워드**: 
   - IP 주소 체계
   - 서브넷 마스크
@@ -203,7 +203,7 @@
 ### 11. [cub3d](https://github.com/junyjeon/cub3d)
 - **난이도**: Level 4
 - **구현**: 레이캐스팅을 이용한 3D 게임 엔진 구현
-- **기술스택**: C, MiniLibX, 수학
+- **기술 스택**: C, MiniLibX, 수학
 - **학습 키워드**: 
   - 레이캐스팅 알고리즘
   - 벡터 수학
@@ -218,7 +218,7 @@
 ### 12. [CPP Module 00](https://github.com/junyjeon/CPP-Module-00)
 - **난이도**: Level 4
 - **구현**: C++ 기초 문법과 클래스 입문
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - 네임스페이스
   - 클래스와 객체
@@ -229,7 +229,7 @@
 ### 13. [CPP Module 01](https://github.com/junyjeon/CPP-Module-01)
 - **난이도**: Level 4
 - **구현**: 메모리 할당, 참조, 포인터
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - new와 delete
   - 참조자
@@ -239,7 +239,7 @@
 ### 14. [CPP Module 02](https://github.com/junyjeon/CPP-Module-02)
 - **난이도**: Level 4
 - **구현**: 연산자 오버로딩
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - 고정소수점 클래스
   - 연산자 오버로딩
@@ -249,7 +249,7 @@
 ### 15. [CPP Module 03](https://github.com/junyjeon/CPP-Module-03)
 - **난이도**: Level 4
 - **구현**: 상속
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - 클래스 상속
   - 접근 지정자
@@ -259,7 +259,7 @@
 ### 16. [CPP Module 04](https://github.com/junyjeon/CPP-Module-04)
 - **난이도**: Level 4
 - **구현**: 다형성, 추상 클래스, 인터페이스
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - 가상 함수
   - 순수 가상 함수
@@ -269,7 +269,7 @@
 ### 17. [CPP Module 05](https://github.com/junyjeon/CPP-Module-05)
 - **난이도**: Level 4
 - **구현**: 예외 처리
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - try-catch 구문
   - 예외 클래스
@@ -280,7 +280,7 @@
 ### 18. [CPP Module 06](https://github.com/junyjeon/CPP-Module-06)
 - **난이도**: Level 4
 - **구현**: C++ 타입 캐스팅
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - static_cast
   - dynamic_cast
@@ -291,7 +291,7 @@
 ### 19. [CPP Module 07](https://github.com/junyjeon/CPP-Module-07)
 - **난이도**: Level 4
 - **구현**: C++ 템플릿
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - 함수 템플릿
   - 클래스 템플릿
@@ -301,7 +301,7 @@
 ### 20. [CPP Module 08](https://github.com/junyjeon/CPP-Module-08)
 - **난이도**: Level 4
 - **구현**: STL 컨테이너
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - 템플릿 컨테이너
   - 반복자
@@ -311,7 +311,7 @@
 ### 21. [CPP Module 09](https://github.com/junyjeon/CPP-Module-09)
 - **난이도**: Level 4
 - **구현**: STL 컨테이너 실전 활용
-- **기술스택**: C++98
+- **기술 스택**: C++98
 - **학습 키워드**: 
   - 컨테이너 성능 비교
   - 데이터 구조 선택
@@ -325,7 +325,7 @@
 ### 22. [Inception](https://github.com/junyjeon/Inception)
 - **난이도**: Level 5
 - **구현**: Docker를 이용한 서비스 구축
-- **기술스택**: Docker, Docker Compose, Nginx
+- **기술 스택**: Docker, Docker Compose, Nginx
 - **학습 키워드**: 
   - 컨테이너화
   - 마이크로서비스 아키텍처
@@ -337,7 +337,7 @@
 ### 23. [ft_irc](https://github.com/junyjeon/ft_irc)
 - **난이도**: Level 5
 - **구현**: IRC (Internet Relay Chat) 서버 구현
-- **기술스택**: C++, 소켓 프로그래밍
+- **기술 스택**: C++, 소켓 프로그래밍
 - **학습 키워드**: 
   - TCP 소켓 프로그래밍
   - IRC 프로토콜 구현
@@ -349,7 +349,7 @@
 ### 24. [ft_transcendence](https://github.com/junyjeon/ft_transcendence)
 - **난이도**: Level 6
 - **구현**: 실시간 멀티플레이어 Pong 게임 웹 애플리케이션
-- **기술스택**: 
+- **기술 스택**: 
   - Frontend: TypeScript, React
   - Backend: NestJS, Django
   - Database: PostgreSQL

@@ -91,6 +91,3 @@
 [submodule "ft_irc"]
 	path = 23_ft_irc
 	url = https://github.com/junyjeon/ft_irc.git
-[submodule "ft_transcendence"]
-	path = 24_ft_transcendence
-	url = https://github.com/bukdu7seong/FE.git

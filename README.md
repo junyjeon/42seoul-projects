@@ -364,21 +364,6 @@
   - 데이터베이스 설계
   - 실시간 통신
 
-
-## 연락처
-
-<div align="center">
-<a href="https://github.com/junyjeon">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/juny-jeon-b14980268">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:jjy8479@naver.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-</a>
-</div>
-
 ## 📌 참고
 
 본 README는 42Seoul 커리큘럼의 프로젝트들을 요약한 것입니다. 각 프로젝트의 상세 내용은 해당 프로젝트의 README를 참조해 주시기 바랍니다.
